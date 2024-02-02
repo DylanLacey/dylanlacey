@@ -13,9 +13,21 @@
 - ⚡ Fun fact: ...
 -->
 
-## Manager of Developer Relations
-### ⚡️ Sauce Labs
+## Developer Relations Professional
+### ⚡️ LFG
 
 ## I Make Things
 ### With Ruby
-### With JavaScript
+### With TypeScript
+### With Svelte
+
+## Find Me
+* At my portfolio, https://www.dylanlacey.com
+* At my blog, https://blog.gentlehacker.com
+* On Masto, https://tech.lgbt/@TheGentlehacker
+
+## Hire Me, Contract or Full Time
+### Developer Relations
+### Technical Content Development
+### Full Stack Development (Ruby, TypeScript, Java)
+### Technical Support Management
